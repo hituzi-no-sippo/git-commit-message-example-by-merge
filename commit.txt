@@ -22,3 +22,4 @@ perf(protect): secret scanner
 
 security
 docs(security): update README.md
+feat: commit without scope
