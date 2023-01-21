@@ -17,3 +17,4 @@ perf(db): perf type commit
 Revert "perf(db): perf type commit"
 revert(db): revert type commit
 feat(key): security
+fix(security): fix private key
