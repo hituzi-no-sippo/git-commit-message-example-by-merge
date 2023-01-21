@@ -24,3 +24,4 @@ security
 docs(security): update README.md
 feat: commit without scope
 build(aqua): build type commit
+style(dprint): style type commit
