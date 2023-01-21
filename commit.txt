@@ -8,3 +8,4 @@ chore(release): chore type commit
 feat(config): set config
 feat(cache): use cache
 fix(config): fix config
+fix(cache): fix cache
