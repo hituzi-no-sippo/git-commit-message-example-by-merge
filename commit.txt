@@ -21,3 +21,4 @@ fix(security): fix private key
 perf(protect): secret scanner
 
 security
+docs(security): update README.md
