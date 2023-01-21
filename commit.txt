@@ -15,3 +15,4 @@ ci(github-actions): ci commit type
 build(make): build type commit
 perf(db): perf type commit
 Revert "perf(db): perf type commit"
+revert(db): revert type commit
