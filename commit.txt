@@ -2,3 +2,4 @@ Initial commit
 docs(project): add README.md
 feat(parser): add ability to parse arrays
 docs(project): fix README.md
+fix(parser)!: fix parser
