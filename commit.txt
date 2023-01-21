@@ -12,3 +12,4 @@ fix(cache): fix cache
 test(busted): test type commit
 style(editorconfig): style type commit
 ci(github-actions): ci commit type
+build(make): build type commit
