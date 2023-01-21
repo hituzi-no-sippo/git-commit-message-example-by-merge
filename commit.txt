@@ -5,3 +5,4 @@ docs(project): fix README.md
 fix(parser)!: fix parser
 refactor(parser): refactor type commit
 chore(release): chore type commit
+feat(config): set config
